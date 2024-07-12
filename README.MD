@@ -5,7 +5,7 @@
 # 2. 사용방법
 ---
 
----(cmd)
+```(cmd)
 python hash_calculator.py -f <file_path> -o <hash_algorithm>
 ---
 
